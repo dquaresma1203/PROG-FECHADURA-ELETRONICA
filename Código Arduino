@@ -1,3 +1,8 @@
+// Código Arduíno para o Projeto de Programação - Fechadura Eletrônica
+// Alunos: Darlison Quaresma, Albertino Lobato, Isabella Eduarda do Nascimento, Kalil Luan Oliveira
+
+// Código
+
 // Importar bibliotecas
 #include <EEPROM.h> // Memória não volátil
 #include <Keypad.h> // Biblioteca de teclado
